@@ -1,0 +1,12 @@
+.counter-container {
+    text-align: center;
+  }
+  
+  .counter-container h1 {
+    font-size: 2rem;
+  }
+  
+  .counter-container button {
+    margin: 0.5rem;
+  }
+  

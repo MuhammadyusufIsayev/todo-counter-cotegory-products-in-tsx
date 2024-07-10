@@ -1,0 +1,15 @@
+.categories-container {
+    text-align: center;
+  }
+  
+  .categories-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .categories-container li {
+    padding: 0.5rem;
+    border-bottom: 1px solid #ccc;
+    
+  }
+  

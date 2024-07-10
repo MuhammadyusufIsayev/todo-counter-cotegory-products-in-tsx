@@ -1,0 +1,22 @@
+.todo-container {
+    text-align: center;
+  }
+  
+  .todo-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .todo-container li {
+    padding: 0.5rem;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .todo-container li span {
+    cursor: pointer;
+  }
+  
+  .todo-container li button {
+    margin-left: 1rem;
+  }
+  
